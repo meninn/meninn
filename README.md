@@ -21,3 +21,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50em"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="50em"/>                                                               
 </div>
+
+![Snake animation](https://github.com/gab-boff/gab-boff/blob/main/.github/workflows/cobrinha.yml)
