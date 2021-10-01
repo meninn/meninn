@@ -22,4 +22,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="50em"/>                                                               
 </div>
 
-![Snake animation](https://github.com/gab-boff/gab-boff/blob/main/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/gab-boff/gab-boff/blob/output/github-contribution-grid-snake.svg)
