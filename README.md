@@ -1,9 +1,9 @@
 <h1 align="center">&lt;Hello there&gt; Eu sou o Gabriel Boff 🦄</h1>
 <div style="display: inline;">
   <ul>
-  <li>📖 Estou estudando para me tornar um Dev FullStack;</li>
-  <li>✨ A principal tecnologia que estudo no momento é JavaScript;</li>
-  <li> ✔️ Projetos Trybe completos: 23/36</li>
+  <li>📖 Estudo Desenvolvimento Web na Trybe;</li>
+  <li>✨ Principal hardskill: JavaScript (ReactJS e Node.js);</li>
+  <li> ✔️ Projetos Trybe concluídos: 23/36</li>
   </ul>
 </div>
 <div align="center">
