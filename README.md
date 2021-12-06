@@ -3,7 +3,7 @@
   <ul>
   <li>📖 Estudo Desenvolvimento Web na Trybe;</li>
   <li>✨ Principal hardskill: JavaScript (ReactJS e Node.js);</li>
-  <li> ✔️ Projetos Trybe concluídos: 24/36.</li>
+  <li> ✔️ Projetos Trybe concluídos: 27/36.</li>
   </ul>
 </div>
 <div align="center">
