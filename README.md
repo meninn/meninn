@@ -2,7 +2,7 @@
 <div style="display: inline;">
   <ul>
   <li>📖 Estudo Desenvolvimento Web na Trybe;</li>
-  <li>✨ Principais hardskills: JavaScript (ReactJS e Node.js) e Java;</li>
+  <li>✨ Principais hardskills: JavaScript (ReactJS e Node.js) e Python;</li>
   <li> ✔️ Projetos Trybe concluídos: 31/36.</li>
   </ul>
 </div>
