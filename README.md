@@ -1,9 +1,8 @@
 <h1 align="center">&lt;Hello there&gt; Eu sou o Gabriel Boff 🦄</h1>
 <div style="display: inline;">
   <ul>
-  <li>📖 Estudo Desenvolvimento Web na Trybe;</li>
-  <li>✨ Principais hardskills: JavaScript (ReactJS e Node.js) e Python;</li>
-  <li> ✔️ Projetos Trybe concluídos: 31/36.</li>
+  <li>📖 Desenvolvedor de Software;</li>
+  <li>✨ Principais hardskills: React.js, Node.js e AWS.</li>
   </ul>
 </div>
 <div align="center">
